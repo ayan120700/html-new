@@ -1,0 +1,24 @@
+/* .container{
+    position: relative;
+}
+
+
+.frame{
+    width: 400px;
+}
+.frame img{
+    width: 100%;
+}
+.wallpaper{
+    width: 189px;
+    position: absolute;
+    top: 82px;
+    left: 106px;
+}
+.wallpaper img{
+    width: 100%;
+} */
+p[data=value]{
+    color:red;
+
+}

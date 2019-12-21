@@ -1,0 +1,116 @@
+.imaage{
+    padding-top: 100px;
+    padding-left: 100px;
+    position: relative;
+}
+.text{
+    position:absolute;
+    bottom: 30px;
+    display: flex;
+    flex-direction: column;
+
+}
+.h4{
+    color: white;
+    background-color: rgba(23, 141, 170, 0.733);
+    height: 30px;
+    width: 250px;
+    padding-top: 5px;
+    padding-left: 10px;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-block-end: 0;
+}
+.h3{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.815);
+    width: 610px;
+    height: 30px;
+    padding-top: 5px;
+    margin-block-start: 0;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 10px;
+    margin-block-end: 0px;
+    font-size: 18px;
+}
+.left-right{
+    position: absolute;
+    top: 250px;
+    width: 650px;
+    display: flex;
+    justify-content: space-between;
+}
+.fad{
+    color: white !important;
+    font-size: 80px;
+}
+.image{
+    position: relative;
+}
+.img{
+    width: 250px;
+    height: 200px;
+}
+h3{
+    color: white;
+    font-size: 17px;
+    width: 60px;
+    height: 50px;
+    padding-top: 5px;
+    text-align: center;
+    background-color: rgba(35, 182, 162, 0.774);
+    margin-block-end: 0px;
+    margin-block-start: 0px;
+}
+h4{
+    color: white;
+    font-size: 14px;
+    width: 60px;
+    height: 20px;
+    background-color: rgba(35, 34, 63, 0.795);
+    text-align: center;
+    padding-top: 5px;
+    margin-block-start: 0px;
+}
+.on-text{
+    position: absolute;
+    top: 0px;
+}
+.img-head{
+    color: rgb(8, 8, 156);
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 10px;
+}
+.border{
+    width: 250px;
+    height: 400px;
+    margin-top: 100px;
+}
+.last{
+    background-color: rgb(202, 198, 198);
+    border-top: solid 1px rgb(119, 117, 117);
+    height: 30px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 11px;
+    font-size: 18px;
+    margin-top: 120px;
+}
+.fas{
+    color: gray;
+}
+.like{
+    border-right: solid 1px gray;
+    padding-right: 10px;
+}
+.dis{
+    border-right: solid 1px gray;
+    padding-right: 10px;
+}
+body{
+    display: flex;
+    justify-content: space-around;
+}
